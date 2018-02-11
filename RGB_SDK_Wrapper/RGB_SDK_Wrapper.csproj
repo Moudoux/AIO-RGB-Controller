@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Colore" Version="5.2.0" />
+    <PackageReference Include="CUE.NET" Version="1.2.0.1" />
+    <PackageReference Include="Q42.HueApi" Version="3.6.2" />
+    <PackageReference Include="Q42.HueApi.ColorConverters" Version="3.6.0" />
+  </ItemGroup>
+
+</Project>
